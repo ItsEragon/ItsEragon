@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Amritpal Singh (@ItsEragon)
-- 👀 I’m interested in Python Programming, Web Development, Machine Learning, Data Science, etc.
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Web Development, Python Programming, Machine Learning, etc.
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ItsEragon (Facebook/Instagram/Twitter)
-- Take a loot at my blog https://Tecknoking.blogspot.com
+- Take a loot at my blog https://Tecknoking.in
 
 <!---
 ItsEragon/ItsEragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
