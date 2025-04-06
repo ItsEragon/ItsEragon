@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ItsEragon (Facebook/Instagram/Twitter)
-- Take a loot at my blog https://Tecknoking.in
+- Take a look at my blog https://Tecknoking.in
 
 <!---
 ItsEragon/ItsEragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
